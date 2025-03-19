@@ -7,6 +7,6 @@ Trabalhando com a ferramenta de versionamento
 
  ## Colaboradores
 * Miguel Angelus
-* Sofia Hatsuni
+* Sofia Hatsumi
 * Dayanny Sampaio
  
