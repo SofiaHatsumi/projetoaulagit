@@ -6,7 +6,7 @@ Trabalhando com a ferramenta de versionamento
  Apresentar as principais funcionalidades do GitHub
 
  ## Colaboradores
-* Miguel Angelus
+* Miguel Angelus idiota
 * Sofia Hatsumi
 * Dayanny Sampaio
  
